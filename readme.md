@@ -10,11 +10,11 @@ If you come across any issues please [report them here](https://github.com/frijj
 
 ### Contributing
 
-Thank you for considering contributing to the Laravue Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Dave Pearson at dave@pds-uk.com.
+Thank you for considering contributing to the Laravue Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Dave Pearson at support@pds-uk.com.
 
 ### Security Vulnerabilities
 
-If you discover a security vulnerability within this boilerplate, please send an e-mail to Dave Pearson at dave@pds-uk.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this boilerplate, please send an e-mail to Dave Pearson at support@pds-uk.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed.
 
 ### License
 
